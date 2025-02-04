@@ -8,7 +8,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "/vercelll/index.py"
+            "dest": "vercelll/index.py"
         }
     ]
 }
